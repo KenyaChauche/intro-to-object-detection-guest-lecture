@@ -22,3 +22,5 @@ So, we'll:
 
 
 Our dataset is [here](https://public.roboflow.ai/object-detection/bccd).
+
+Our notebook is [here](https://colab.research.google.com/drive/1osmBdH1T1utaf1FkHEb5RZ9Qbdy0J32y#scrollTo=yb_FMcfnSbRZ).
